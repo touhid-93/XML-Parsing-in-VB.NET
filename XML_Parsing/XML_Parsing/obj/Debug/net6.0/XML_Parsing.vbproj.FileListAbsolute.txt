@@ -1,0 +1,15 @@
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\bin\Debug\net6.0\XML_Parsing.exe
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\bin\Debug\net6.0\XML_Parsing.deps.json
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\bin\Debug\net6.0\XML_Parsing.runtimeconfig.json
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\bin\Debug\net6.0\XML_Parsing.dll
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\bin\Debug\net6.0\XML_Parsing.pdb
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.vbproj.AssemblyReference.cache
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.AssemblyInfoInputs.cache
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.AssemblyInfo.vb
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.vbproj.CoreCompileInputs.cache
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.dll
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\refint\XML_Parsing.dll
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.pdb
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\XML_Parsing.genruntimeconfig.cache
+C:\Users\Touhid\Desktop\Assignment 2\XML_Parsing\XML_Parsing\obj\Debug\net6.0\ref\XML_Parsing.dll
